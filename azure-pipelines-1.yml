@@ -39,7 +39,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "max_no_inarray.py"
+- script: python "arraymax.py"
 
 
 
